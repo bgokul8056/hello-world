@@ -1,4 +1,3 @@
-# hello-world
-First repository!
-Hi everyone!,
-I am ne to gITHUB AND im currently learning how to open repositories and create branches and stuff!Hope I do well!!:)
+# COURSERA -HTML,CSS AND JAVASCRIPT 
+
+The solutions to the modules of assignments for John Hopkins University are uploaded here.
